@@ -1,16 +1,36 @@
-# React + Vite
+# CryptoPulse – Real-Time Crypto Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoPulse is a web application that fetches real-time cryptocurrency market data using public APIs and displays prices, market trends, and key metrics through a clean and responsive user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Preview
 
-## React Compiler
+![Screenshot 1](images/image1.png)
+![Screenshot 2](images/image2.png)
+![Screenshot 3](images/image3.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+##  Features
+- Cryptocurrency price tracking
+- Responsive and user-friendly UI
+- Fast and lightweight frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+- React.js  
+- JavaScript  
+- REST APIs  
+- HTML & CSS  
+
+---
+##  Getting Started
+```bash
+npm install
+npm run dev
+```
+## Use Case
+
+Track cryptocurrency prices and market trends in real time through a simple and intuitive dashboard.
